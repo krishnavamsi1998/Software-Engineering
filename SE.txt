@@ -1,0 +1,80 @@
+Software Engineering :
+
+It is a standard procedure in order to develop
+a software
+
+Life Cycle :
+
+1.Planning (Requirement Analysis)
+2.Analysis
+3.design
+4.code
+5.test
+6.deploy
+7.Maintain
+
+Models :
+
+Classic waterfall model :
+
+It follows sequential approach
+
+Unified process model :
+
+It is an incremental process model
+
+Spiral model :
+
+Risk handling model
+
+Testing :
+
+Software testing is a process, to evaluate
+the functionality of a software application
+
+Black Box Testing (closed testing):
+
+Internal structure of the software is hidden
+
+it is to test behaviour testing 
+
+
+No prior knowledge of programming is
+required 
+
+It is least time consuming 
+
+
+White Box testing :(clear box testing ):
+
+Internal structure is known to the tester
+
+it is to test logic part of software
+
+prior knowledge of programming is
+required 
+
+It is most time consuming.
+
+Examples :
+
+Boundary value analysis
+
+Equal class partitioning
+
+Decision table 
+
+examples :
+
+A. Path Testing 
+ 
+B. Loop Testing 
+ 
+C. Condition testing
+
+ 
+
+
+
+
+
